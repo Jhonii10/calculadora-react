@@ -6,3 +6,6 @@ Esta es una aplicación de calculadora básica desarrollada en React. Permite re
 
 Realizar operaciones aritméticas básicas como suma, resta, multiplicación y división.
 Mostrar el resultado de las operaciones en tiempo real.
+
+instalar solo presiona click en el enlace:
+https://calculadora-react-10.netlify.app/
